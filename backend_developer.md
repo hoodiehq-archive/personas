@@ -3,7 +3,7 @@
 <img src="https://s3.amazonaws.com/uifaces/faces/twitter/i_makethings/128.jpg" align="right" style="float:left; margin: 0 20px 20px 0" /> 
 
 **Name:** Robin  
-**Age:** 37
+**Age:** 37  
 **Hobbies:** burgers, code, community 
 
 > “We can build that!”
