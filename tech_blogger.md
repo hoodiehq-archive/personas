@@ -4,7 +4,6 @@
 
 **Name:** Tom  
 **Age:** 26  
-
 **Hobbies:** new tech, languages, travelling
 
 > “Did already someone write an article about that?”
