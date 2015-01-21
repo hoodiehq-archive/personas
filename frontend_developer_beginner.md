@@ -3,7 +3,7 @@
 <img src="https://s3.amazonaws.com/uifaces/faces/twitter/philbadworld/128.jpg" align="right" style="float:left; margin: 0 20px 20px 0" /> 
 
 **Name:** Martin  
-**Age:** 19
+**Age:** 19  
 **Hobbies:** code, code, code
 
 > “Look! I found such a cool new lib!”
