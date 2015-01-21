@@ -8,7 +8,7 @@
 - [x] Frontend Developer - beginner
 - [x] Frontend Developer - experienced
 - [x] Web Designer
-- [ ] Blogger / Multiplicators
+- [x] Blogger / Multiplicators
 - [ ] UX Designer
 - [ ] Tech Product Founder
 - [ ] Hoster
@@ -16,5 +16,5 @@
 
 
 ##### License
-Pictures: http://uifaces.com/authorized
+Pictures: http://uifaces.com/authorized  
 Content: MIT
