@@ -26,7 +26,6 @@ UX Designer
 ###Other skills: 
 - great communication skills
 - good eye for details
-- 
 
 
 ###Devices I use: 
