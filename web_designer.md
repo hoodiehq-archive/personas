@@ -3,7 +3,7 @@
 <img src="https://s3.amazonaws.com/uifaces/faces/twitter/erictherobot/128.jpg" align="right" style="float:left; margin: 0 20px 20px 0" /> 
 
 **Name:** James  
-**Age:** 32
+**Age:** 34  
 **Hobbies:** riding bike, climbing,  photography
 
 > “Is this website also responsive?”
