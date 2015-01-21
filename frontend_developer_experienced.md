@@ -1,6 +1,6 @@
 # Persona: Frontend Developer - experienced
 
-<img src="https://s3.amazonaws.com/uifaces/faces/twitter/adellecharles/128.jpg" align="right" style="float:left; margin: 0 20px 20px 0" /> 
+<img src="https://s3.amazonaws.com/uifaces/faces/twitter/idiot_girl/128.jpg" align="right" style="float:left; margin: 0 20px 20px 0" /> 
 
 **Name:** Becka  
 **Age:** 27
