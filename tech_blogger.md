@@ -3,7 +3,8 @@
 <img src="https://s3.amazonaws.com/uifaces/faces/twitter/gkaam/128.jpg" align="right" style="float:left; margin: 0 20px 20px 0" /> 
 
 **Name:** Tom  
-**Age:** 26 
+**Age:** 26  
+
 **Hobbies:** new tech, languages, travelling
 
 > “Did already someone write an article about that?”
