@@ -9,7 +9,7 @@
 - [x] Frontend Developer - experienced
 - [x] Web Designer
 - [x] Blogger / Multiplicators
-- [ ] UX Designer
+- [x] UX Designer
 - [ ] Tech Product Founder
 - [ ] Hoster
 - [ ] Freelancer
