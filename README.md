@@ -1,6 +1,8 @@
 # [WIP] - Personas
 
 
+### Small collection of personas. Feel free to use.
+
 - [x] Project Manager
 - [x] Backend Developer
 - [x] Frontend Developer - beginner
@@ -11,3 +13,8 @@
 - [ ] Tech Product Founder
 - [ ] Hoster
 - [ ] Freelancer
+
+
+##### License
+Pictures: http://uifaces.com/authorized
+Content: MIT
