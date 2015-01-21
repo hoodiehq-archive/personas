@@ -3,7 +3,7 @@
 <img src="https://s3.amazonaws.com/uifaces/faces/twitter/idiot_girl/128.jpg" align="right" style="float:left; margin: 0 20px 20px 0" /> 
 
 **Name:** Becka  
-**Age:** 27
+**Age:** 27  
 **Hobbies:** code, tech meetups, riding longboard, concerts
 
 > “Let’s think this through before we start!”
