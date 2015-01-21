@@ -4,7 +4,7 @@
 
 **Name:** Paige  
 **Age:** 29  
-**Hobbies:** art, dance, hiking, traveling
+**Hobbies:** design and art shows, dance, hiking, traveling
 
 > “This doesn't feel right yet.”
 
@@ -35,4 +35,6 @@ UX Designer
 
 
 ###Requested benefits?
-- 
+- product should feel right for user
+- as simple as possible to use
+- should serve the users needs
