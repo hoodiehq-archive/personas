@@ -10,8 +10,8 @@
 - [x] Web Designer
 - [x] Blogger / Multiplicators
 - [x] UX Designer
-- [ ] Tech Product Founder
-- [ ] Hoster
+- [x] Tech Product Founder
+- [x] Hoster
 - [ ] Freelancer
 
 
