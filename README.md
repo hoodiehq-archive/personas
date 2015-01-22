@@ -12,7 +12,7 @@
 - [x] UX Designer
 - [x] Tech Product Founder
 - [x] Hoster
-- [ ] Freelancer
+- [x] Freelancer
 
 
 ##### License
