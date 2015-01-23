@@ -6,7 +6,7 @@
 **Age:** 31  
 **Hobbies:** food, cooking, travel, new gadgets
 
-> “Uptime is at 99.6%... sweet!”
+> “Uptime is at 99.96%... sweet!”
 
 ###Job: 
 CTO
